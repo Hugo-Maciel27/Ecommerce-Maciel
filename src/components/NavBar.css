@@ -1,0 +1,6 @@
+#container-NavBar{
+    display: flex;
+    justify-content: end;
+    justify-content: space-around;
+    align-items: flex-end;
+}
